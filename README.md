@@ -26,5 +26,5 @@ We will make use of our data science tools to analyse data, focus and explore th
   
   -> Performing a clustering to visualize the groups of the highest rated places in the city.
   
-Based on all the analysis that we will make, the toursits can have a wide view of what cities have the most to offer to them. 
+Based on all the analysis that we will make, the toursits can have a wide view of which city has the most to offer to them. 
 In addition to this, an enterpreneur can have a precise vision about what are the places and activities that attract more in a specific city in albania. With this  kind of information we can guess what activites (business oppurtunities) are missing in a city.
