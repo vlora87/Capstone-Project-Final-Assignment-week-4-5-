@@ -5,11 +5,11 @@ Applied Data Science Capstone by IBM/Coursera
 
 ***1. Introduction: Business Problem***
 
-The aim of this project is to find places to visit in Albania. As the data availables on Foursquare about places in Albanie are few, we will limit this report to toursits. The targeted stakeholders would be people from around the world interested in visiting any city in Albania. The data can be used to analyze aswell the potential of some city for investors that are willing to open any business in a specific city. 
+The aim of this project is to find places to visit in Tiraa, Albania. As the data availables on Foursquare about places in Tirana are few, we will limit this report to toursits and investors. The targeted stakeholders would be people from around the world interested in visiting any city in Albania. The data can be used to analyze aswell the potential of some city for investors that are willing to open any business in a specific city. 
 
-The first task would be to analyse the  places of the highest interest for tourists based on the information available on Foursquare.
+The first task would be to analyse the  places of the highest interest for tourists based on the information available on Foursquare in combination with some data found on Google.
 
-We will make use of our data science tools to analyse data, focus and explore the 5 most known cities of the country.
+We will make use of our data science tools to analyse data, focus and explore the 15 most known places in the capital city of Albania.
 
 
 ***2. Data***
@@ -18,11 +18,11 @@ We will make use of our data science tools to analyse data, focus and explore th
 
   -> finding the most populated city in the country (top 10) (csv file : https://simplemaps.com/data/al-cities).
   
-  -> extract the lat and lng of the top 5 cities.
+  -> extract the lat and lng of the top 15 places in Tirana.
   
-  -> search for each location the main places listed by Foursquare.
+  -> search for each location the main venues listed by Foursquare.
   
-  -> Analyzes the top 10 place in each city is very interesting because it will tell us the trends of each city. 
+  -> Analyzes the top 15 place in each city is very interesting because it will tell us the trends of each city. 
   
   -> Performing a clustering to visualize the groups of the highest rated places in the city.
   
